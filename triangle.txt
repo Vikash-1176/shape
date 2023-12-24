@@ -1,0 +1,2 @@
+triangle code are here.
+//comes from triangle.txt
